@@ -2,6 +2,8 @@
 
 This is the source code for my personal portfolio website, showcasing my projects, skills, and contact information. The site is built using React, TailwindCSS, and Vite, and is deployed using Netlify.
 
+**Live Site**: [dominic-bell.netlify.app](https://dominic-bell.netlify.app)
+
 ## Features
 
 - **About Page**: Details about my journey as a software developer and my experiences.
